@@ -2,3 +2,4 @@
 
 ![Dance Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0NDllNDVoajluODBhMGg1Y281YTU0bXAxY21pcXR3a2Z4ODMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/do0xfdH2Ssh56/giphy.gif)
 
+![My Animation](./ui_goku.gif)
