@@ -2,4 +2,3 @@
 
 ![Dance Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0NDllNDVoajluODBhMGg1Y281YTU0bXAxY21pcXR3a2Z4ODMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/do0xfdH2Ssh56/giphy.gif)
 
-![Rocket Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNhc2RyYm40b3dyMmt1NWJxdHY1NXQzZGNyajlkaDZuMHprbHpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7jzGb5JT0B2D7w771/giphy.gif)
