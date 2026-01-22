@@ -1,46 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple CSS Animation</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #1a1a1a;
-            margin: 0;
-        }
+![Coding Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-        .circle {
-            width: 150px;
-            height: 150px;
-            background: linear-gradient(45deg, #ff00cc, #3333ff);
-            border-radius: 50%;
-            /* The animation magic happens here */
-            animation: pulse 3s infinite ease-in-out;
-            box-shadow: 0 0 20px rgba(255, 0, 204, 0.5);
-        }
+![Dance Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0NDllNDVoajluODBhMGg1Y281YTU0bXAxY21pcXR3a2Z4ODMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/do0xfdH2Ssh56/giphy.gif)
 
-        @keyframes pulse {
-            0% {
-                transform: scale(1);
-                filter: hue-rotate(0deg);
-            }
-            50% {
-                transform: scale(1.5); /* Grow larger */
-                filter: hue-rotate(180deg); /* Change color */
-            }
-            100% {
-                transform: scale(1);
-                filter: hue-rotate(0deg);
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="circle"></div>
-</body>
-</html>
+![Rocket Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNhc2RyYm40b3dyMmt1NWJxdHY1NXQzZGNyajlkaDZuMHprbHpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7jzGb5JT0B2D7w771/giphy.gif)
